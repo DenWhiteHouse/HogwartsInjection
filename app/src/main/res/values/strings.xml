@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidInjection</string>
+    <string name="getHousesButton">get Houses</string>
+    <string name="mainText">Wizard Battle</string>
+</resources>
